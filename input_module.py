@@ -1,6 +1,4 @@
-from assistant_details import name
-
-
 def take_input():
-    i = input(name+": ")
+    # command line input
+    i = input("Shubh: ")
     return i
